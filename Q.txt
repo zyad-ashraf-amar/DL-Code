@@ -1,0 +1,3 @@
+what is Gradient descent?
+
+Its optimizer used to minimize the error to get the optimal value for weight
